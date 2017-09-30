@@ -1,4 +1,5 @@
 # kavenegar-go-soap
+[![Build Status](https://travis-ci.org/KaveNegar/kavenegar-go-soap.svg?branch=master)](https://travis-ci.org/KaveNegar/kavenegar-go-soap)
 
 ## Installation
 ```
