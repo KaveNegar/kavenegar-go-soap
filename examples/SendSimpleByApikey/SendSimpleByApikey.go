@@ -1,13 +1,3 @@
-# kavenegar-go-soap
-
-## Installation
-```
-go get github.com/kavenegar/kavenegar-go-soap
-```
-## Usage
-
-### Send
-```golang
 package main
 
 import (
@@ -33,6 +23,3 @@ func main() {
 		}
 	}
 }
-
-```
-## Contribution
